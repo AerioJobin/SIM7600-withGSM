@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Arduino IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Serial Monitor Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.bak.*
+
+# Compiled object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared libraries
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.elf
+*.hex
+
+# Dependency tracking
+*.d
+
+# IDE and editor files
+.project
+.cproject
+.classpath
+*.sublime-project
+*.sublime-workspace
+
+# OS specific files
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Build artifacts
+*.o
+*.a
+*.lib
