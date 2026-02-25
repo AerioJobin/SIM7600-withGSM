@@ -3,7 +3,7 @@
 #define SerialAT Serial1
 
 // ================= USER SETTINGS =================
-#define SMS_TARGET  "9863074332"
+#define SMS_TARGET  "//target number"
 #define GSM_PIN     ""
 // =================================================
 
